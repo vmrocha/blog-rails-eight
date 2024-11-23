@@ -1,24 +1,9 @@
-# README
+# Blog demo using Rails 8
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Setup
 
-Things you may want to cover:
+On Windows WSL Ubuntu 24.04 install:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```shell
+sudo apt-get install imagemagick
+```
