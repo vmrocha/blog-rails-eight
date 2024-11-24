@@ -1,0 +1,4 @@
+<article id="<%= dom_id(comment) %>">
+    <%= comment.content %> -
+    <%= time_tag comment.updated_at, "data-local": "time-ago" %>
+</article>
