@@ -8,7 +8,15 @@ On Windows WSL Ubuntu 24.04 install:
 sudo apt-get install imagemagick
 ```
 
-# Extra
+# Deploy
+
+To use the .env file with Kamal, you have to use `dotenv`.
+
+```shell
+dotenv kamal setup
+```
+
+# Notes
 
 ```
 git config --global core.editor "code --wait"
